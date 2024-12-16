@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<h1>Welcome to Resume Builder</h1>
+<p>Visit <a href="https://github.com/mbaneshi">my github profile</a> to see my latest projects</p>
